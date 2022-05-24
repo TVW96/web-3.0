@@ -1,0 +1,59 @@
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(images/vr.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.adjacent {
+    display:inline-block;
+    vertical-align: baseline;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.blockquote {
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:10px;
+}
+
+.subcontent {
+    padding-top: 50px;
+    padding-bottom: 10px;
+    color:whitesmoke;
+    width: 1000px;
+    padding-left: 10px;
+    margin-right: auto;
+   
+}
+
+.subinfo {
+    padding-top: 50px;
+    padding-bottom: 10px;
+    color:whitesmoke;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.break {
+    width: 100%;
+    display:inline-flex;
+}
+
+
+
+hr {
+    
+    width: 100%;
+    background-image: url(images/speculativeFiction.jpeg);
+}
