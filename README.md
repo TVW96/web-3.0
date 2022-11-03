@@ -4,4 +4,6 @@ This website works as a scratch board for my beginning thought of understanding 
 
 This was a group project completed by Troy, Liya, & Aisha during L&D phase of YearUp 2022. 
 
+
+
 Website link: https://tvw96.github.io/web-3.0/
